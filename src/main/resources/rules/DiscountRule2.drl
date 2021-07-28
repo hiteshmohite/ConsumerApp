@@ -1,0 +1,7 @@
+package rules;
+dialect  "mvel"
+
+rule "DiscountRule2"
+    when
+    then
+end
